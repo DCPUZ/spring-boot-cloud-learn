@@ -95,4 +95,6 @@ spring-boot-cloud-learn.iml
 .idea/uiDesigner.xml
 spring-learn-servera/spring-learn-servera.iml
 spring-learn-version/spring-learn-version.iml
-.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml
+.idea
+Maven__org_hamcrest_hamcrest_core_1_3.xml
+/spring-learn-version/spring-learn-version.iml
